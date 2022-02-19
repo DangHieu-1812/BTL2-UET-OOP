@@ -1,0 +1,8 @@
+* Hầu như việc nói sẽ ktra code game hay code từ điển đều là dọa, nhưng ae muốn cẩn thận thì cứ vào đổi tên biến rồi đổi tên hàm, tên class các thứ đi (nhớ phải sửa lại đường dẫn khai báo package)
+* Code này game chạy được, có đủ hầu hết các tiêu chí cơ bản về va chạm, về level, về âm thanh và được mình cmt khá chi tiết từng dòng để giải thích -> Ko quá tệ nhưng cũng ko xuất sắc để bị nghi ngờ chép code, lại có cmt để dễ hiểu code hơn
+* Hướng dẫn:
+- B1: Tải intelliJ (bản free hay bản vip pro đều dc)
+- B2: Tải file zip cái này về (Nút màu xanh ấy) và giải nén ra
+- B3: Vào intelliJ, chọn open rồi chọn đến folder project này sau khi giải nén, mở ra (hiện lên 1 cái bảng thì bấm trust project) rồi đợi 1 lúc để intelliJ nó add idea, lib các kiểu vô
+- B4: Chỉnh project struct về jdk 1.8 (nếu đã là 1.8 sẵn rồi thì ko cần nữa)
+- B5: Chuột phải vào cái class Bombermangame rồi bấm run để chạy game (di chuyển bằng mũi tên, đặt bom bấm space)
