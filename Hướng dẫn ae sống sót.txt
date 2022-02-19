@@ -4,5 +4,5 @@
 - B1: Tải intelliJ (bản free hay bản vip pro đều dc)
 - B2: Tải file zip cái này về (Nút màu xanh ấy) và giải nén ra
 - B3: Vào intelliJ, chọn open rồi chọn đến folder project này sau khi giải nén, mở ra (hiện lên 1 cái bảng thì bấm trust project) rồi đợi 1 lúc để intelliJ nó add idea, lib các kiểu vô
-- B4: Chỉnh project struct về jdk 1.8 (nếu đã là 1.8 sẵn rồi thì ko cần nữa)
+- B4: Chỉnh project struct (vào mục file thì trong cái bảng hiện ra có hay sao ấy, lâu r cũng chả nhớ nữa kkkk !!!) về jdk 1.8 (nếu đã là 1.8 sẵn rồi thì ko cần nữa)
 - B5: Chuột phải vào cái class Bombermangame rồi bấm run để chạy game (di chuyển bằng mũi tên, đặt bom bấm space)
